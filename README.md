@@ -50,3 +50,7 @@ https://developers.google.com/machine-learning/managing-ml-projects
 27. https://www.youtube.com/watch?v=8idr1WZ1A7Q&list=PLZHQObOWTQDOjmo3Y6ADm0ScWAlEXf-fp
 28. https://www.youtube.com/watch?v=dPWYUELwIdM
 29. https://www.youtube.com/@ritvikmath/videos
+30. https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=78s
+31. https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1148s
+32. https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1148s
+33. https://www.youtube.com/watch?v=5OXXSgpJQT0&list=PLNAMH_0HgWT_B0PyCHstisLu3Cv6HI8x-
