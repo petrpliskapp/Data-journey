@@ -3,6 +3,13 @@ My journey to Data/ML engineering/science
 
 ## Projects
 
+### UFC
+
+- PageRank Time-Specific PageRank
+    -  Implement and Test model history accuracy
+- ELO
+-     dfs
+
 1. Ufc Elo model implementation (scraping, model apply, showing model results on the web, command for add new match results)
 2. Sexual content naive text clasification by bayes theorem
 3. Searching in state space - tic tac toe game AI
