@@ -31,6 +31,7 @@ My journey to Data/ML engineering/science
 
 
 ## Courses/lectures
+https://github.com/dair-ai/ML-YouTube-Courses
 
 https://www.youtube.com/@Deeplearningai/videos
 https://www.youtube.com/watch?v=ErnWZxJovaM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
