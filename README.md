@@ -1,5 +1,5 @@
 # Data-journey
-My journey to Data engineering/science
+My journey to Data/ML engineering/science
 
 ## Projects
 
@@ -18,8 +18,22 @@ My journey to Data engineering/science
 4. Random forest
 5. Gradient boosting
 6. SVM & Neural Networks
+7. 
+
+## Books
+- elementarni statistika
+- big data
+- Depp learning ve frameworku Keras
+- 
+
+## Papers/studies
+-
+
 
 ## Courses/lectures
+
+https://www.youtube.com/@Deeplearningai/videos
+https://www.youtube.com/watch?v=ErnWZxJovaM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 
 1. Elements of AI
 2. Advanced Elements of AI
@@ -61,6 +75,24 @@ https://developers.google.com/machine-learning/managing-ml-projects
 30. https://www.youtube.com/watch?v=dPWYUELwIdM
 31. https://www.youtube.com/@ritvikmath/videos
 32. https://www.youtube.com/watch?v=LHBE6Q9XlzI&t=78s
-33. https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1148s
 34. https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1148s
 35. https://www.youtube.com/watch?v=5OXXSgpJQT0&list=PLNAMH_0HgWT_B0PyCHstisLu3Cv6HI8x-
+36. https://www.youtube.com/watch?v=bmmQA8A-yUA
+37. https://www.youtube.com/watch?v=NWONeJKn6kc&t=13847s
+38. https://www.youtube.com/watch?v=hDKCxebp88A
+39. https://www.youtube.com/watch?v=5NgNicANyqM
+40. https://www.youtube.com/watch?v=Rs_rAxEsAvI
+41. https://www.youtube.com/watch?v=V_xro1bcAuA
+42. https://www.youtube.com/watch?v=vDDjtwQDw2k
+43. https://www.youtube.com/watch?v=9Y3yaoi9rUQ
+44. https://www.youtube.com/watch?v=3wwiOSxDAmg
+45. https://www.youtube.com/watch?v=jBlTQjcKuaY
+46. https://www.youtube.com/watch?v=hDKCxebp88A
+47. https://www.youtube.com/watch?v=VtRLrQ3Ev-U
+48. https://www.youtube.com/watch?v=M3ZWfamWrBM
+49. https://www.youtube.com/watch?v=2IZKK3pJQjg
+50. https://www.youtube.com/watch?v=0oyDqO8PjIg
+51. https://www.youtube.com/watch?v=o6vbe5G7xNo&t=871s
+52. https://www.youtube.com/watch?v=iOdFUJiB0Zc
+53. https://www.youtube.com/watch?v=8m3LvPg8EuI
+54. https://www.youtube.com/watch?v=mNMDd6D1om8
