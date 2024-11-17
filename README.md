@@ -65,6 +65,7 @@ UFC Fights Win Predictor - 90 percent acc
 https://github.com/shw-bot/ufc_model 83 acc
 https://github.com/calicartels/UFC-fight-prediction-matrix
 https://koppej.me/index.html
+
 ### TO BE READ
 
 
@@ -73,6 +74,9 @@ https://github.com/dair-ai/ML-YouTube-Courses
 
 https://www.youtube.com/@Deeplearningai/videos
 https://www.youtube.com/watch?v=ErnWZxJovaM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+
+https://www.simplilearn.com/skillup-free-online-courses
+https://www.edx.org/learn/data-science/ibm-sql-for-data-science
 
 1. Elements of AI
 2. Advanced Elements of AI
