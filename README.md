@@ -5,10 +5,25 @@ My journey to Data/ML engineering/science
 
 ### UFC
 
-- PageRank Time-Specific PageRank
+- Linear regression
+      -
+- Logistic regresion
+      -
+- Naive bayes classification
+    -  Implement and Test model history accuracy
+- Bayes regression
+    -  Implement and Test model history accuracy
+- PageRank AND Time-Specific PageRank
     -  Implement and Test model history accuracy
 - ELO
--     dfs
+    -  Implement and Test model history accuracy
+- Bayesian Elo
+    -  Implement and Test model history accuracy
+- TrueSkill
+    -  Implement and Test model history accuracy
+- Glicko and Glicko-2 Rating Systems
+    -  Implement and Test model history accuracy
+
 
 1. Ufc Elo model implementation (scraping, model apply, showing model results on the web, command for add new match results)
 2. Sexual content naive text clasification by bayes theorem
@@ -19,13 +34,17 @@ My journey to Data/ML engineering/science
 7. 
 
 ### Learn algorithm in bellow order
-1. Linear regresion
-2. Logistic regresion
-3. Decision trees
-4. Random forest
-5. Gradient boosting
-6. SVM & Neural Networks
-7. 
+
+1. Naive bayes clasification
+2. Linear regresion
+3. Logistic regresion
+4. Decision trees
+5. Random forest
+6. Gradient boosting
+7. SVM & Neural Networks
+8. Monte Carlo Simulation
+9. Markov chain
+10. Bradley-Terry type model
 
 ## Books
 - elementarni statistika
@@ -33,8 +52,20 @@ My journey to Data/ML engineering/science
 - Depp learning ve frameworku Keras
 - 
 
-## Papers/studies
--
+## Papers/studies/scientific articles 
+### READ
+Applying Machine Learning Algorithms to Predict UFC Fight Outcomes
+- https://cs229.stanford.edu/proj2019aut/data/assignment_308875_raw/26426025.pdf
+Predicting UFC matches using regression models
+- https://kth.diva-portal.org/smash/get/diva2:1878726/FULLTEXT01.pdf
+Predicting UFC bouts with a DNN classifier - 80 percent acc
+- https://towardsdatascience.com/predicting-ufc-bouts-with-dnn-classifier-f955e9abe6c6
+UFC Fights Win Predictor - 90 percent acc
+- https://medium.com/@hasan.shabbir07/ufc-fights-win-predictor-987f234d63ac
+https://github.com/shw-bot/ufc_model 83 acc
+https://github.com/calicartels/UFC-fight-prediction-matrix
+https://koppej.me/index.html
+### TO BE READ
 
 
 ## Courses/lectures
