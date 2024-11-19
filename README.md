@@ -31,7 +31,7 @@ My journey to Data/ML engineering/science
 4. Searching in state space - dáma
 5. Chrome javascript extension for showing token count and line above which Chat GPT cant remember context
 6. Markov chain text generator based on rap lyrics
-7. 
+7. Probabilities of Blackjack, poker, Prsi
 
 ### Learn algorithm in bellow order
 
