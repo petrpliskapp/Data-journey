@@ -32,7 +32,17 @@ My journey to Data/ML engineering/science
 5. Chrome javascript extension for showing token count and line above which Chat GPT cant remember context
 6. Markov chain text generator based on rap lyrics
 7. Probabilities of Blackjack, poker, Prsi
-
+8. Dog breed clasification
+9. Video shoplift clasification
+10. UFC Ai referee
+11. milion react apps for learning and teaching statistics, probability, models etc
+12. implement AI for vacuum cleaner
+13. implement wink classify - health eyes - maybe say to look for longer distance after some time
+14. 
+15. implement TSP problem as react app
+16. implement LP react app
+17. show on 3d model data
+18. 
 ### Learn algorithm in bellow order
 
 1. Naive bayes clasification
@@ -70,14 +80,24 @@ https://koppej.me/index.html
 
 
 ## Courses/lectures
-https://github.com/dair-ai/ML-YouTube-Courses
 
+### Python course - kaggle.com
+10h
+Verification - https://www.kaggle.com/learn/certification/petrpliska/python
+
+ML recipes google for developers
+Statistics - A Full University Course on Data Science Basics https://www.youtube.com/watch?v=xxpc-HPKN28&t=1868s
+https://github.com/dair-ai/ML-YouTube-Courses
+https://www.youtube.com/watch?v=HZGCoVF3YvM&list=PLiAulSm0XXgvCGe63mrAkda9UQ9478YQv
 https://www.youtube.com/@Deeplearningai/videos
 https://www.youtube.com/watch?v=ErnWZxJovaM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-
+https://www.youtube.com/watch?v=zeJD6dqJ5lo&list=PLIhj5_pQwhMQfGZNQZREjDdJRt0t0sn51
+https://www.youtube.com/watch?v=w9dYGmoTlT0
 https://www.simplilearn.com/skillup-free-online-courses
 https://www.edx.org/learn/data-science/ibm-sql-for-data-science
-
+https://www.youtube.com/watch?v=xxpc-HPKN28&t=29s
+https://www.youtube.com/watch?v=0m-rs2M7K-Y
+https://www.coursera.org/learn/python-data-analysis
 1. Elements of AI
 2. Advanced Elements of AI
 3. Data engineering - Datacamp
