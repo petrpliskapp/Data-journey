@@ -81,12 +81,16 @@ https://koppej.me/index.html
 
 ## Courses/lectures
 
-### Python course - kaggle.com
+### Python course
+kaggle.com
 10h
 Verification - https://www.kaggle.com/learn/certification/petrpliska/python
 
-ML recipes google for developers
-Statistics - A Full University Course on Data Science Basics https://www.youtube.com/watch?v=xxpc-HPKN28&t=1868s
+### ML recipes google for developers
+### Statistics - A Full University Course on Data Science Basics
+freecodecamp.org
+10h
+https://www.youtube.com/watch?v=7mz73uXD9DA&t=9385s
 https://github.com/dair-ai/ML-YouTube-Courses
 https://www.youtube.com/watch?v=HZGCoVF3YvM&list=PLiAulSm0XXgvCGe63mrAkda9UQ9478YQv
 https://www.youtube.com/@Deeplearningai/videos
@@ -159,3 +163,4 @@ https://developers.google.com/machine-learning/managing-ml-projects
 52. https://www.youtube.com/watch?v=iOdFUJiB0Zc
 53. https://www.youtube.com/watch?v=8m3LvPg8EuI
 54. https://www.youtube.com/watch?v=mNMDd6D1om8
+55. 
